@@ -1,8 +1,11 @@
 # KTPM
 # Manual Testing Website
 
-## :boom: What is this project about?
-This document explains the various activities performed as part of Testing of ‘Nodejs Website’ application: http://kcpm-sut.azurewebsites.net/nodejs2
+## :boom: Purpose of schoolwork
+This document explains the various activities performed as part of Testing of ‘Nodejs Website’ application: http://kcpm-sut.azurewebsites.net/nodejs2 and applying equivalence partitioning with decision table. 
+
+## :star: Design table
+This document solving 2 problems: a booking train ticket activity and a calculating mortgage fee activity.
 
 ## :star: Test summary report
 1. Purpose
